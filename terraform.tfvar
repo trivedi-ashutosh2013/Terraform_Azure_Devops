@@ -1,0 +1,9 @@
+# A .tfvars file is used to assign values to variables defined in the variables.tf file.
+# This file should be kept secure as it may contain sensitive information.
+SubscriptionID = "68e77552-ca1c-4789-beb2-bf96d0d1f254"
+ClientID       = "aa942352-d39f-40e7-b265-66676a02aed6"
+TenantID       = "e34c91c4-1632-4328-8a7c-c6e4c49d852d"
+LOCATION = "West Europe"
+RG_NAME = "example-resources"
+OS_TYPE = "Linux"
+SKU_NAME = "B1"
